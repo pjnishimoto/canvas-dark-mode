@@ -12,7 +12,7 @@
   },
   "default_locale": "en",
   "permissions": [
-      "https://canvas.oregonstate.edu.edu/*",
+      "https://canvas.oregonstate.edu/*",
       "https://*.instructure.com/*"
   ],
   "content_scripts": [
